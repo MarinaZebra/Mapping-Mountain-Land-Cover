@@ -208,6 +208,10 @@ No lockfile with unverified versions is included. Also record QGIS/GDAL versions
 input product IDs and manual decisions. Hashes of GeoPackages/rasters are recorded;
 if using shapefiles, archive all sidecars and their checksums separately.
 
+## Case study
+
+[View the Posets–Maladeta case-study summary](docs/posets-maladeta-case-study.pdf)
+
 ## Repository publication
 See [docs/GITHUB.md](docs/GITHUB.md). This folder is ready to initialise as a Git
 repository; no GitHub repository has been created or published automatically.
