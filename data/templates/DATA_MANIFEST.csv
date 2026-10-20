@@ -1,0 +1,13 @@
+role;filename;source;product_id;acquisition_date;download_url;source_crs;units;nodata;preprocessing;licence
+study_area;;;;;;;;;;
+training_polygons;;;;;;;;;;
+exclusions;;;;;;;;;;
+B02;;;;;;;;;;
+B03;;;;;;;;;;
+B04;;;;;;;;;;
+B08;;;;;;;;;;
+B11;;;;;;;;;;
+B12;;;;;;;;;;
+elevation;;;;;;;;;;
+slope;;;;;;;;;;
+reference_imagery;;;;;;;;;;

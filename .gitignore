@@ -1,0 +1,16 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+config/config.R
+data/input/
+data/reference/
+outputs/
+renv/library/
+renv/staging/
+*.tif
+*.tiff
+*.jp2
+*.gpkg
+*.zip
+.DS_Store
